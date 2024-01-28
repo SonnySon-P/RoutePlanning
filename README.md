@@ -25,5 +25,5 @@
 ```python
 python prob1.py StartTime StartNode GoalNode
 ```
-<br>
+
 **計算結果說明：** 如([BCJKS],39)，[]中為所經過的節點，39為耗費時間。
